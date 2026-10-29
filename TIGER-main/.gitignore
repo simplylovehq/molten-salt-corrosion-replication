@@ -1,0 +1,9 @@
+
+*.csv
+*.e*
+*.pyc
+*.png
+*.gif
+examples/.DS_Store
+.DS_Store
+*.avi
